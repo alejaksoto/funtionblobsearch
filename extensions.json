@@ -1,0 +1,10 @@
+{
+    "extensions": [
+      {
+        "name": "AzureStorage",
+        "typeName": "Microsoft.Azure.WebJobs.Extensions.Storage.Blobs",
+        "version": "5.0.0"
+      }
+    ]
+  }
+  
